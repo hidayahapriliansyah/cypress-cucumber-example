@@ -2,6 +2,8 @@
 
 This project contains an example of E2E testing using Cypress and Cucumber with a Next.js frontend.
 
+**This project is created using Node.js v20.11.1 version**
+
 ## Project Structure
 
 - **frontend**: This folder contains the Next.js project.
